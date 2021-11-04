@@ -1,4 +1,4 @@
-baseURL = 'http://kcdiydad.com/'
+baseURL = 'https://kcdiydadcom'
 languageCode = 'en-us'
-title = 'KCDIYDad'
-theme = "hugo-creative-portfolio-theme"
+title = 'KC DIY Dad'
+theme = "ananke"
